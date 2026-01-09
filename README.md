@@ -27,7 +27,7 @@ This tool extracts that data directly from your PDF bills, giving you:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/Octopus-Bill-Parser.git
+   git clone https://github.com/mypi-home/Octopus-Bill-Parser.git
    cd Octopus-Bill-Parser
    ```
 
