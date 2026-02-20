@@ -53,7 +53,6 @@ def process_pdf(pdf_path):
 
     # Find all date markers
     date_matches = list(re.finditer(date_pattern, all_text))
-    print(date_matches)
     
     # Process each date block
     for idx, date_match in enumerate(date_matches):
